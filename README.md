@@ -22,8 +22,8 @@ All three demo businesses, products, prices, reviews, menus, room details and im
 
 ## Suggested starting prices
 - Launch website — ₹2,999
-- Business website — ₹6,999
-- Shop catalogue — ₹12,999
+- Business website — ₹4,000
+- Shop catalogue — ₹6,000
 
 These are suggested starting prices, not binding fixed-price commitments. Domain, hosting, payment gateway, advanced booking, inventory sync, paid tools, maintenance and other integrations require separate scope and costing. Confirm scope, revisions, timeline, ownership and payment milestones in writing before starting work.
 
